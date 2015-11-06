@@ -1,7 +1,7 @@
 {
   "name": "nullify",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Wrap a function to only run on non-null values",
   "license": "MIT",
   "repository": "bendrucker/nullify",
