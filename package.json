@@ -1,0 +1,30 @@
+{
+  "name": "nullify",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Wrap a function to only run on non-null values",
+  "license": "MIT",
+  "repository": "bendrucker/nullify",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "null",
+    "value",
+    "functional",
+    "function",
+    "fn"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
