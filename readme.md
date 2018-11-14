@@ -1,4 +1,4 @@
-# nullify [![Build Status](https://travis-ci.org/bendrucker/nullify.svg?branch=master)](https://travis-ci.org/bendrucker/nullify)
+# nullify [![Build Status](https://travis-ci.org/bendrucker/nullify.svg?branch=master)](https://travis-ci.org/bendrucker/nullify) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/nullify.svg)](https://greenkeeper.io/)
 
 > Wrap a function to only run on non-null values
 
